@@ -26,3 +26,4 @@ https://cryptopals.com/
 
 https://holidayhackchallenge.com/past-challenges/
 
+#To add ebooks and reasearch manuals
